@@ -1,0 +1,13 @@
+{
+  "name": "react-restate",
+  "version": "0.0.0",
+  "description": "A React renderer for state",
+  "author": "Tim Dorr <timdorr@timdorr.com>",
+  "license": "MIT",
+  "repository": "timdorr/react-restate",
+  "main": "src/index.js",
+  "dependencies": {
+    "fbjs": "^0.8.4",
+    "react": "^15.3.1"
+  }
+}
